@@ -42,3 +42,6 @@ Para as classes:
     objetoExemplo.metodoExemplo()
     ```
 
+# Anotacões pessoais    
+    Não use números mágicos, crie arquivos de constantes em json/python
+    
