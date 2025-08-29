@@ -10,6 +10,7 @@ Para as classes:
 - **Tabela:** repartir o meio da tabela mesmo que a classe não tenha atributos/métodos
 - **Modelo para métodos:**  
     `visibilidade nomeMétodo(listaArgumentos de preferência no modelo nomeArgumento:tipoArgumento): tipoRetorno`
+- **Conexão entre tabelas:** Quando for herança, usa-se seta, quando uma classe tem acesso a outra, usa-se linha.
 
 # Especificações para Classe
 
