@@ -98,3 +98,5 @@ cython_debug/
 *.db
 
 *.docx#
+
+*.ps1
