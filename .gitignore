@@ -96,3 +96,5 @@ dmypy.json
 cython_debug/
 
 *.db
+
+*.docx#
