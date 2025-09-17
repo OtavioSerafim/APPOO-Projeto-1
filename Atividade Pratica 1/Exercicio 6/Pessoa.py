@@ -4,4 +4,4 @@ class Pessoa():
         self.idade = idade
     
     def chorar(self):
-        print(f" {self.nome} chorou bua bua bua!")
+        print(f"{self.nome} chorou bua bua bua!")

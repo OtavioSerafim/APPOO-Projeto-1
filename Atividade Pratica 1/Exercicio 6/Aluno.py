@@ -7,8 +7,7 @@ class Aluno(Pessoa):
         self.notas = []
         
     def calcular_media_notas(self):
-        soma = 0
-        for nota in self.notas:
-            soma = soma + nota
-        return soma/len(self.notas)
+        if not self.notas:
+            return 0.0
+        return sum(self.notas) / len(self.notas)
             
