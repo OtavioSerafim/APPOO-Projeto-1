@@ -1,7 +1,7 @@
 from metodoPagamento import MetodoPagamento
 
 class TransferenciaBancaria(MetodoPagamento):
-    def __init__(self, valor, data=...):
+    def __init__(self, valor, data):
         super().__init__(valor, data)
         
     def processar_pagamento(self):
